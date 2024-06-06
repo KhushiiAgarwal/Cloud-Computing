@@ -1,10 +1,5 @@
-﻿Name : Khushi Agarwal
 
-Roll no:-79
-
-Division: TY-CS-B
-
-**Problem statement Lab 5: AWS IAM**
+**Problem statement : AWS IAM**
 
 - **Working**
 - **Architecture**
