@@ -1,10 +1,5 @@
-﻿<a name="_hlk156670729"></a><a name="_hlk156774901"></a>Name : Khushi Agarwal
 
-Roll no:-79
-
-Division: TY-CS-B
-
-**Problem statement Lab 2:** 
+**Problem statement:** 
 
 **Launch an EC2 Instance:**
 
