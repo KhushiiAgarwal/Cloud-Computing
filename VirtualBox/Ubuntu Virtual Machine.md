@@ -1,12 +1,8 @@
-﻿Name : Khushi Agarwal
-
-Roll no:-79 & PRN: 12110411
-
-Division: TY-CS-B
 
 
 
-**PROBLEM STATEMENT Lab 1: To install an OS using VirtualBox/ VMWare Workstation. Add Storage to create new virtual disk.**
+
+**PROBLEM STATEMENT: To install an OS using VirtualBox/ VMWare Workstation. Add Storage to create new virtual disk.**
 
 1. **Installation of Virtual Box:** 
 
