@@ -1,8 +1,4 @@
-﻿Name : Khushi Agarwal
 
-Roll no:-79
-
-Division: TY-CS-B
 
 **Problem statement Lab 4: To create AWS account and use S3 storage bucket**
 
