@@ -1,10 +1,5 @@
-﻿**Name : Khushi Agarwal**
 
-**Roll no:-79**
-
-**Division: TY-CS-B**
-
-**Problem statement Lab 3: To Deploy Virtual Machine on Hypervisor such as KVM, ESXi. Take Backup and Migrate them**
+**Problem statement : To Deploy Virtual Machine on Hypervisor such as KVM, ESXi. Take Backup and Migrate them**
 
 Process to share hardware resources with other devices over internet and the hardware is at abstract level. Physical servers consume electricity, take storage space, and need maintenance. Virtualization removes all these limitations by abstracting physical hardware functionality into software. 
 
