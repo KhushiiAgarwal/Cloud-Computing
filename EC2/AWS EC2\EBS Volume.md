@@ -4,115 +4,28 @@
 **Launch an EC2 Instance:**
 
 **•	Create a new EC2 instance using the AWS Management Console.**
-
 **•	Choose an Amazon Machine Image (AMI) based on your requirements.**
-
 **•	Configure instance details, such as instance type, security groups, and key pairs.**
 
 **Connect to an EC2 Instance:**
-
 **•	Use SSH (Secure Shell) or RDP (Remote Desktop Protocol) to connect to your EC2 instance.**
-
 **•	Understand how to use key pairs for authentication.**
 
 **Explore Different Instance Types:**
-
 **•	Launch instances of various types (e.g., t2.micro, t3.medium, m5.large) to understand the differences in computing power and resources.**
 
 **Create and Attach EBS Volumes:**
-
 **•	Create Elastic Block Store (EBS) volumes and attach them to your EC2 instances.**
-
 **•	Learn how to format and mount the attached volumes.**
 
 **Security Groups and Network Configuration:**
-
 **•	Experiment with security groups to control inbound and outbound traffic to your instances.**
-
 **•	Understand how to configure network interfaces and assign Elastic IP addresses.**
 
 
 1. **Launch an EC2 Instance:**
 
    Amazon Elastic Compute Cloud (Amazon EC2) provides on-demand, scalable computing capacity in the Amazon Web Services (AWS) Cloud. Using Amazon EC2 reduces hardware costs so you can develop and deploy applications faster.
-
-   **Features of Amazon EC2**
-
-- **Instances:** Virtual servers.
-
-o	**Compute optimized:** C5, C5n, C6g, C6gd, C6gn, C6id, C6i, C6in, C7a, C7g, C7gd, C7gn
-
-o	**Memory optimized:** R, X, Z instances
-
-o	**Storage optimized**: D, H, I
-
-- **Processor families**
-
-a – AMD processors
-
-g – AWS Graviton processors
-
-i – Intel processors
-
-- **Additional capabilities** 
-
-
-
-b – EBS optimized
-
-d – Instance store volumes
-
-n – Network and EBS optimized
-
-e – Extra storage or memory
-
-z – High performance
-
-q – Qualcomm inference accelerators
-
-flex – Flex instance
-
-- **Amazon Machine Images (AMIs)**
-
-  Preconfigured templates for your instances that package the components you need for your server (including the operating system and additional software).
-
-- **Instance types**
-
-  Various configurations of CPU, memory, storage, networking capacity, and graphics hardware for your instances.
-
-- **Key pairs**
-
-  Secure login information for your instances. AWS stores the public key and you store the private key in a secure place.
-
-- **Instance store volumes**
-
-  Storage volumes for temporary data that is deleted when you stop, hibernate, or terminate your instance.
-
-- **Amazon EBS volumes**
-
-  Persistent storage volumes for your data using Amazon Elastic Block Store (Amazon EBS).
-
-- **Regions, Availability Zones, Local Zones, AWS Outposts, and Wavelength Zones**
-
-  Multiple physical locations for your resources, such as instances and Amazon EBS volumes.
-
-- **Security groups**
-
-  A virtual firewall that allows you to specify the protocols, ports, and source IP ranges that can reach your instances, and the destination IP ranges to which your instances can connect.
-
-- **Elastic IP addresses**
-
-  Static IPv4 addresses for dynamic cloud computing.
-
-- **Tags**
-
-  Metadata that you can create and assign to your Amazon EC2 resources.
-
-- **Virtual private clouds (VPCs)**
-
-  Virtual networks you can create that are logically isolated from the rest of the AWS Cloud. You can optionally connect these virtual networks to your own network.
-
-
 1. **Create an Instance**
 
 The virtualization type of your instance is determined by the AMI that you use to launch it. Current generation instance types support hardware virtual machine (HVM) only. Some previous generation instance types support paravirtual (PV) and some AWS Regions support PV instances
@@ -422,3 +335,81 @@ Before attaching Volume state is available when a min size of 8GB and 100 IOps i
 
 [ref1]: Aspose.Words.36d70b15-e681-4ed1-8ba0-5fc28bc1e4b6.010.png
 [ref2]: Aspose.Words.36d70b15-e681-4ed1-8ba0-5fc28bc1e4b6.018.png
+
+   **Features of Amazon EC2**
+
+- **Instances:** Virtual servers.
+
+o	**Compute optimized:** C5, C5n, C6g, C6gd, C6gn, C6id, C6i, C6in, C7a, C7g, C7gd, C7gn
+
+o	**Memory optimized:** R, X, Z instances
+
+o	**Storage optimized**: D, H, I
+
+- **Processor families**
+
+a – AMD processors
+
+g – AWS Graviton processors
+
+i – Intel processors
+
+- **Additional capabilities** 
+
+
+
+b – EBS optimized
+
+d – Instance store volumes
+
+n – Network and EBS optimized
+
+e – Extra storage or memory
+
+z – High performance
+
+q – Qualcomm inference accelerators
+
+flex – Flex instance
+
+- **Amazon Machine Images (AMIs)**
+
+  Preconfigured templates for your instances that package the components you need for your server (including the operating system and additional software).
+
+- **Instance types**
+
+  Various configurations of CPU, memory, storage, networking capacity, and graphics hardware for your instances.
+
+- **Key pairs**
+
+  Secure login information for your instances. AWS stores the public key and you store the private key in a secure place.
+
+- **Instance store volumes**
+
+  Storage volumes for temporary data that is deleted when you stop, hibernate, or terminate your instance.
+
+- **Amazon EBS volumes**
+
+  Persistent storage volumes for your data using Amazon Elastic Block Store (Amazon EBS).
+
+- **Regions, Availability Zones, Local Zones, AWS Outposts, and Wavelength Zones**
+
+  Multiple physical locations for your resources, such as instances and Amazon EBS volumes.
+
+- **Security groups**
+
+  A virtual firewall that allows you to specify the protocols, ports, and source IP ranges that can reach your instances, and the destination IP ranges to which your instances can connect.
+
+- **Elastic IP addresses**
+
+  Static IPv4 addresses for dynamic cloud computing.
+
+- **Tags**
+
+  Metadata that you can create and assign to your Amazon EC2 resources.
+
+- **Virtual private clouds (VPCs)**
+
+  Virtual networks you can create that are logically isolated from the rest of the AWS Cloud. You can optionally connect these virtual networks to your own network.
+
+
