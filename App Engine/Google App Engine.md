@@ -1,10 +1,6 @@
-﻿Name : Khushi Agarwal
 
-Roll no:-79
 
-Division: TY-CS-B
-
-**Problem statement Lab 2: Install Google App Engine. Create hello world app using Python**
+**Problem statement : Install Google App Engine. Create hello world app using Python**
 
 Developers upload their apps to App Engine, and Google Cloud takes care of the rest. The notion of servers, virtual machines, and instances have been abstracted away, with App Engine providing all the compute necessary. Developers don't have to worry about operating systems, web servers, logging, monitoring, load-balancing, system administration, or scaling, as App Engine takes care of all that. Developers only need to focus on building solutions for their organizations or their users.
 
