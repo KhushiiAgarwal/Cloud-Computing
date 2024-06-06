@@ -1,10 +1,5 @@
-﻿Name : Khushi Agarwal
 
-Roll no:-79
-
-Division: TY-CS-B
-
-**Tut 2: AWS Pricing Calculator**
+**AWS Pricing Calculator**
 
 - **Check Os : Linux, Windows & Ubuntu**
 - **Pricing Model**
