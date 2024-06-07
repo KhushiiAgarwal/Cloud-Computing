@@ -1,8 +1,4 @@
-﻿Name : Khushi Agarwal
 
-Roll no:-79
-
-Division: TY-CS-B
 
 **Problem statement Lab 6: Cloud Storage Database in any CSP**
 
