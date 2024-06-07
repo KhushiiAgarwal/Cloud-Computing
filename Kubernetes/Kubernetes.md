@@ -1,10 +1,6 @@
-﻿Name : Khushi Agarwal
 
-Roll no:-79
 
-Division: TY-CS-B
-
-**Problem statement Lab 8:** **Deploy a stateless/stateful application on Kubernetes cluster.**
+**Problem statement:** **Deploy a stateless/stateful application on Kubernetes cluster.**
 
 - **Use kubectl to build and manipulate GKE clusters**
 - **Use kubectl and configuration files to deploy Pods**
