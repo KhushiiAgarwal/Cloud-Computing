@@ -1,8 +1,4 @@
-﻿Name : Khushi Agarwal
 
-Roll no:-79
-
-Division: TY-CS-B
 
 **Problem statement Tut 6: Perform any 3**
 
