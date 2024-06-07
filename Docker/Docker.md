@@ -1,10 +1,6 @@
-﻿Name : Khushi Agarwal
 
-Roll no:-79
 
-Division: TY-CS-B
-
-**Problem statement Lab 5: Docker installation & build a image from docker hub.**
+**Problem statement: Docker installation & build a image from docker hub.**
 
 1. **Install Docker from <https://docs.docker.com/desktop/install/windows-install/>** 
 
